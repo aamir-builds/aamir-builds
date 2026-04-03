@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Muhammad Amir 👋
 
-<!--
-**aamir-builds/aamir-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSCS Student (2nd Year) — NUML, Lahore, Pakistan
+💡 Building foundations today to solve real problems tomorrow
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** C, C++, Java
+- **Concepts:** Object-Oriented Programming (OOP), Data Structures
+
+## 🌱 Currently Learning
+- OOP in Java — writing cleaner, structured code
+- Data Structures & Algorithms — the backbone of problem solving
+- Exploring AI/ML concepts — because the future is intelligent
+
+## 🎯 Goals
+- Build strong DSA foundations & real-world projects
+- Learn AI/ML and integrate it into practical applications
+- Stay current with modern tech & AI-driven development
+- Secure an internship by 3rd year
+- Become a confident, AI-aware software developer by graduation
+
+## 📫 Connect with me
+- 📧 Email: muhammadamir191491@gmail.com
+- 💻 GitHub: you're already here!m
